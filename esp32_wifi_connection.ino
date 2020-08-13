@@ -21,7 +21,6 @@ void setup() {
   Serial.print("IP Address : ");
   Serial.println(WiFi.localIP());
 }
-.
 
 void loop(){
 }
